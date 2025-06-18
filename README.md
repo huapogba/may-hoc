@@ -1,1 +1,1 @@
-# may-hoc
+# Machine Learning - CS114 Proj
