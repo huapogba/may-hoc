@@ -3,8 +3,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/UIT-VNUHCM-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Nhập%20môn-Công%20nghệ%20phần%20mềm-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Nhà%20hàng-Đặt%20món-lightgrey?style=flat-square" />
 </p>
 
 ---
